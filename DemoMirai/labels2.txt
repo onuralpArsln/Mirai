@@ -1,0 +1,3 @@
+0 focused
+1 confused
+2 distracted
